@@ -1,0 +1,5 @@
+repository,build_scanning_enabled
+repo-clean,true
+repo-exposed,true
+repo-history,true
+repo-extended,false

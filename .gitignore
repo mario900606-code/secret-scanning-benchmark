@@ -1,0 +1,42 @@
+# Local test repositories
+/repos/
+
+# Raw scanner results
+/reports/kingfisher/
+/reports/trufflehog/
+
+# Credentials and environment files
+.env
+.env.*
+*.pem
+*.key
+*.vhdx
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Generated test environments
+/repos/
+
+# Raw scanner reports
+/reports/kingfisher/
+/reports/trufflehog/
+
+# Local machine metadata
+/docs/environment.txt
+
+# Private key files
+*.pem
+*.key
+synthetic_ssh
+synthetic_rsa
+
+# Temporary output
+*.tmp
+*.log
