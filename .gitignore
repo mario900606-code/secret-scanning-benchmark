@@ -40,3 +40,10 @@ synthetic_rsa
 # Temporary output
 *.tmp
 *.log
+
+# Local CLI documentation
+/docs/kingfisher-cli.txt
+/docs/trufflehog-cli.txt
+
+# Generated central scanning reports
+/reports/comparison/central-*.csv
